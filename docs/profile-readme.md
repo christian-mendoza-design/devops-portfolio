@@ -22,7 +22,7 @@ usando únicamente herramientas gratuitas.
 |---|---|
 | [Notes App](https://github.com/christian-mendoza-design/devops-TP06) | API Flask + Postgres + Nginx en Docker Compose con CI/CD |
 | [Kubernetes Deploy](https://github.com/christian-mendoza-design/devops-TP09) | Misma app en K8s con Deployments, Services y Probes |
-| [Helm Chart](https://github.com/TU_USUARIO/devops-TP10) | Chart parametrizado con Ingress y HPA |
+| [Helm Chart](https://github.com/christian-mendoza-design/devops-TP10) | Chart parametrizado con Ingress y HPA |
 | [Terraform IaC](https://github.com/christian-mendoza-design/devops-TP11) | Infraestructura Docker como código con módulos |
 | [Monitoring Stack](https://github.com/christian-mendoza-design/devops-TP08) | Prometheus + Grafana con métricas propias de la app |
 
